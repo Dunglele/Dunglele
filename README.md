@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Quang_Dung-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ldqquang-dung/)](https://www.linkedin.com/in/ldqquang-dung/)
 [![Website Badge](https://img.shields.io/badge/-qdungdev.id.vn-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://qdungdev.id.vn)](https://qdungdev.id.vn)
 [![Instagram Badge](https://img.shields.io/badge/-@__qdungg.39-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_qdungg.39/)](https://instagram.com/_qdungg.39)
-[![Outlook Badge](https://img.shields.io/badge/-ldqdung-0078d4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:ldqdung@outlook.com)](mailto:ldqdung@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:ldqdung@outlook.com)](mailto:ldqdung@outlook.com)
 [![Notebook](https://img.shields.io/badge/notebook-open_in_jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](LINK_NOTEBOOK)
 
 
